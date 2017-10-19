@@ -2,8 +2,8 @@
 // Created by Dominik Müller on 13.10.17.
 //
 
-#ifndef THE_LEGEND_OF_TUX_HALBADDIERER_H
-#define THE_LEGEND_OF_TUX_HALBADDIERER_H
+#ifndef HALBADDIERER_H
+#define HALBADDIERER_H
 
 
 #include <utility>
@@ -20,4 +20,4 @@ public:
 };
 
 
-#endif //THE_LEGEND_OF_TUX_HALBADDIERER_H
+#endif //HALBADDIERER_H

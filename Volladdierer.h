@@ -2,8 +2,8 @@
 // Created by Dominik Müller on 13.10.17.
 //
 
-#ifndef THE_LEGEND_OF_TUX_VOLLADDIERER_H
-#define THE_LEGEND_OF_TUX_VOLLADDIERER_H
+#ifndef VOLLADDIERER_H
+#define VOLLADDIERER_H
 
 
 #include "Halbaddierer.h"
@@ -24,4 +24,4 @@ public:
 };
 
 
-#endif //THE_LEGEND_OF_TUX_VOLLADDIERER_H
+#endif //VOLLADDIERER_H

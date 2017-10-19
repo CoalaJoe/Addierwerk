@@ -2,8 +2,8 @@
 // Created by Dominik Müller on 13.10.17.
 //
 
-#ifndef THE_LEGEND_OF_TUX_ADDIERWERK_H
-#define THE_LEGEND_OF_TUX_ADDIERWERK_H
+#ifndef ADDIERWERK_H
+#define ADDIERWERK_H
 
 
 #include <vector>
@@ -25,4 +25,4 @@ public:
 };
 
 
-#endif //THE_LEGEND_OF_TUX_ADDIERWERK_H
+#endif //ADDIERWERK_H
